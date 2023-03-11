@@ -1,0 +1,15 @@
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\bin\Debug\net6.0\CSV_File_Editor.exe
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\bin\Debug\net6.0\CSV_File_Editor.deps.json
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\bin\Debug\net6.0\CSV_File_Editor.runtimeconfig.json
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\bin\Debug\net6.0\CSV_File_Editor.dll
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\bin\Debug\net6.0\CSV_File_Editor.pdb
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\obj\Debug\net6.0\CSV_File_Editor.csproj.AssemblyReference.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\obj\Debug\net6.0\CSV_File_Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\obj\Debug\net6.0\CSV_File_Editor.AssemblyInfoInputs.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\obj\Debug\net6.0\CSV_File_Editor.AssemblyInfo.cs
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\obj\Debug\net6.0\CSV_File_Editor.csproj.CoreCompileInputs.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\obj\Debug\net6.0\CSV_File_Editor.dll
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\obj\Debug\net6.0\refint\CSV_File_Editor.dll
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\obj\Debug\net6.0\CSV_File_Editor.pdb
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\obj\Debug\net6.0\CSV_File_Editor.genruntimeconfig.cache
+C:\Users\17346\Desktop\Misc Projects\CSV_File_Editor\CSV_File_Editor\CSV_File_Editor\obj\Debug\net6.0\ref\CSV_File_Editor.dll
